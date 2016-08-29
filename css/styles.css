@@ -1,0 +1,18 @@
+
+
+body{
+	font-size: 22px;
+	font-family: Tahoma, "Segoe UI", Calibri;
+	padding-top: 70px;
+
+	background-color: lightgrey;
+}
+
+.navbar.navbar-default.navbar-fixed-top{
+	background-color: lightblue;
+}
+
+div>ul{
+	background-color: cyan ;
+}
+
